@@ -71,13 +71,14 @@ Usage from Terminal
 
 1.  Navigate to the Folder Location:
 
- 
     $ cd Q1
+
 
 2. Execution of Example:
 
 
     $ python3 example.py
+
 
 Example
 
@@ -128,12 +129,10 @@ Usage from terminal:
  
     $ cd Q2
 
-2. Execution of example 
-
+2. Execution of example
 
     $ python3 example.py
-
-
+   
 
 Example
 
@@ -225,7 +224,7 @@ Usage from terminal:
 
 4. Enter the number of top frequent words to find
 
-
+ 
     Enter the number of top frequent words to find: 
  
  Example:
