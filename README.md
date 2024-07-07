@@ -1,3 +1,13 @@
+Made in New Westminster, Canada by  [Sebanthalas](https://sites.google.com/view/sebanthalas), July 2024
+
+
+This folder contains the solution to the screen questions for the Picovoice job application Deep Learning Researcher.
+
+All the files  should run locally. The first step is to download the .zip file and try to run it.
+
+* Made on Linux (x86_64)
+* [Defines](#Theoretical solution to Q1)
+ 
 # **Q1:Chance it rains more than n days in Vancouver**
 
 # Theoretical solution to Q1:
