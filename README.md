@@ -1,4 +1,5 @@
 Made in New Westminster, Canada by  [Sebanthalas](https://sites.google.com/view/sebanthalas), July 2024
+ 
 
 
 This folder contains the solution to the screen questions for the Picovoice job application Deep Learning Researcher.
@@ -6,7 +7,7 @@ This folder contains the solution to the screen questions for the Picovoice job 
 All the files  should run locally. The first step is to download the .zip file and try to run it.
 
 * Made on Linux (x86_64)
-* [Defines](#Theoretical solution to Q1)
+ 
  
 # **Q1:Chance it rains more than n days in Vancouver**
 
@@ -50,7 +51,8 @@ Files
 * poibin.py: Implementation of the Poisson Binomial distribution by Mika Straka see [Hong2013](https://doi.org/10.1016/j.csda.2012.10.006).
 * prob_rain_more_than_n.py: Function that accepts $p$ (rain probabilities on a given calendar day) and $n$ as input arguments, returning the possibility of raining at least $n$ days.
 
-
+Assumptions
+* The vector $p$ must have 365 days and $n$ must be less than $365$.
            
 
 Requirements
