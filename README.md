@@ -2,7 +2,7 @@ Made in New Westminster, Canada by  [Sebanthalas](https://sites.google.com/view/
  
 
 
-This folder contains the solution to the screen questions for the Picovoice job application Deep Learning Researcher.
+This folder contains the solution to the screen questions for the [private company] job application Deep Learning Researcher.
 
 All the files  should run locally. The first step is to download the .zip file and try to run it.
 
